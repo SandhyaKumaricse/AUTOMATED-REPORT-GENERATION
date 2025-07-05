@@ -68,5 +68,5 @@ This task provided practical exposure to file handling and report automation usi
 
 
 # OUTPUT
-
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/2845a57b-bfb7-4ba0-bf73-90b2acf2b12f" />
 <img width="1916" height="972" alt="Image" src="https://github.com/user-attachments/assets/53384fe6-c06b-4bd2-8585-21c01ea96515" />
