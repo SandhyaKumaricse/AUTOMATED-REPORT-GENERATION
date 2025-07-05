@@ -63,3 +63,8 @@ The output is saved as `report.pdf`, containing a clear breakdown of the data in
 ---
 
 This task provided practical exposure to file handling and report automation using Python, a highly valuable skill in administrative, data analysis, and reporting roles.
+
+
+##OUTPUT
+
+<img width="1916" height="972" alt="Image" src="https://github.com/user-attachments/assets/53384fe6-c06b-4bd2-8585-21c01ea96515" />
