@@ -52,7 +52,7 @@ The output is saved as `report.pdf`, containing a clear breakdown of the data in
 * **Academic Institutions:** Automatically generate student performance reports.
 * **HR & Teams:** Summarize employee assessments or feedback forms.
 * **Survey Analysis:** Create printable summaries from form submissions.
-* **Business Dashboards:** Export regular business metrics in a document-friendly format.
+* **Business Dashboards:** Export regular business metrics in a document-friendly format
 
 ## ✅ Deliverables
 
